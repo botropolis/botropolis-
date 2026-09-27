@@ -1,0 +1,24 @@
+{
+  "name": "botropolis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Living AI Agent City — monorepo",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "echo \"Build all packages\"",
+    "dev": "echo \"Run observer console\"",
+    "lint": "echo \"Lint\""
+  },
+  "keywords": [
+    "botropolis",
+    "ai-agent",
+    "harberger",
+    "robinhood-chain",
+    "agent-city"
+  ],
+  "author": "Botropolis",
+  "license": "MIT"
+}
